@@ -33,7 +33,7 @@ pip install requests beautifulsoup4
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/British-Airways-Reviews.git
+   git clone https://github.com/DennisMaxwell/British-Airways-Reviews.git
    cd British-Airways-Reviews
    ```
 
